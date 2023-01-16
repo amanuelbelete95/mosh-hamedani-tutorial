@@ -1,2 +1,4 @@
 # mosh-hamedani-tutorial
-Learning Git
+
+Author : Amanuel Belete
+email: amanuelbelete95@gmail.com
